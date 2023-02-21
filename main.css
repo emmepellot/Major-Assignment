@@ -1,0 +1,145 @@
+body{
+    background-color:rgb(229, 233, 232);
+}
+
+p{ 
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.headLine{
+    font-size: 60px;
+    background-color: rgb(31, 81, 90);
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px;
+    padding:30px;
+    text-align: center;
+}
+
+.img1{
+    float:left;
+    width: 500px;
+    height: 400px;
+}
+.img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    width: 50%;
+}
+.img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+
+h2{
+    font-size: 35px;
+    background-color: rgb(31, 81, 80);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-top: 425px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+p2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img4r{
+    display:flex;
+}
+.img4{
+    flex: 33%;
+    padding:5px;
+    margin-left: 6%;
+}
+.caption{
+    text-align: center;
+    font-size: small;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h3{
+    font-size: 35px;
+    background-color: rgb(31, 81, 80);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+p3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-size: 35px;
+    background-color: rgb(31, 81, 80);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+p4{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5{
+    font-size: 35px;
+    background-color: rgb(31, 81, 80);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.img5r{
+    content: "";
+    clear: both;
+    display:flex
+}
+.img5{
+    float: left;
+    width: 15%;
+    padding: 5px;
+}
+p5{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6{
+    font-size: 35px;
+    background-color: rgb(31, 81, 80);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+p6{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subheadings{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 24px;
+}
